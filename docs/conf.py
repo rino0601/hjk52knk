@@ -20,7 +20,7 @@ import sphinx_rtd_theme
 project = 'wedding-plan'
 copyright = '2020, hanjong-ko'
 author = 'hanjong-ko'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
