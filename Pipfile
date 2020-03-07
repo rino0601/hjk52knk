@@ -20,4 +20,4 @@ sphinx-rtd-theme = "*"
 python_version = "3.6"
 
 [scripts]
-docs="sphinx-build -M html docs/ docs/"
+docs="sphinx-build -M html docs/ docs/_build"
