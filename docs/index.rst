@@ -3,15 +3,36 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. https://xbeach.readthedocs.io/en/latest/cheatsheet.html
+
 Welcome to wedding-plan's documentation!
 ========================================
 
+.. image:: https://readthedocs.org/projects/journal-preparing-wedding-of-rino-and-rethien/badge/?version=latest
+   :target: https://journal-preparing-wedding-of-rino-and-rethien.readthedocs.io/ko/latest/?badge=latest
+   :alt: Documentation Status
+
+이 문서는 한 커플의 결혼 준비 과정을 기록해둔 것입니다. (현재 진행 중)
+
+준비 기간은 6개월(173일), 연애는 7년째(2020년 기준), 예산은 솔직히 안 정했다...
+
+누군가에게는 가치 있는 기록이 되길 바랍니다.
+
+
 .. toctree::
-   plan/grantt
    :maxdepth: 2
-   :caption: Contents:
 
+   decision
+   honeymoon/index
+   plan/grantt
 
+.. toctree::
+   :maxdepth: 1
+   :caption: References
+
+   Sphinx <https://www.sphinx-doc.org/>
+   Read the Docs <https://readthedocs.org/>
+   utterances <https://utteranc.es>
 
 
 Indices and tables
@@ -26,7 +47,7 @@ Indices and tables
 
    <script src="https://utteranc.es/client.js"
         repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
+        issue-number="3"
         theme="github-light"
         crossorigin="anonymous"
         async>
