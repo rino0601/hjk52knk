@@ -21,6 +21,7 @@ Welcome to wedding-plan's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contents
 
    decision
    honeymoon/index
