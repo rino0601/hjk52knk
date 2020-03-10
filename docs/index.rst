@@ -24,6 +24,7 @@ Welcome to wedding-plan's documentation!
    :caption: Contents
 
    decision
+   dress
    honeymoon/index
    plan/grantt
 
