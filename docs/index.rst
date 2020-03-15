@@ -25,6 +25,7 @@ Welcome to wedding-plan's documentation!
 
    decision
    dress
+   ring
    honeymoon/index
    plan/grantt
 
