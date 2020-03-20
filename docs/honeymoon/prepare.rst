@@ -94,3 +94,14 @@ COVID-19 31번 환자 등장
 자료 수령
 ---------------
 
+
+
+.. raw:: html
+
+   <script src="https://utteranc.es/client.js"
+        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+   </script>

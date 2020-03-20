@@ -48,3 +48,14 @@
 
 ``브****` 홀딩은 그날로 바로 취소 했다.
 카드 결제 내역이 이상하게 찍히긴 했지만, 제대로 환불 되긴 했다.
+
+
+.. raw:: html
+
+   <script src="https://utteranc.es/client.js"
+        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+   </script>

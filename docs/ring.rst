@@ -153,3 +153,13 @@
 구분 못 하면 흰소리 하는 사람인 거고, 구분하면 그때가서 해명하면 된다.
 
 
+
+.. raw:: html
+
+   <script src="https://utteranc.es/client.js"
+        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+   </script>
