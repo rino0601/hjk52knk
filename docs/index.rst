@@ -26,6 +26,7 @@ Welcome to wedding-plan's documentation!
    decision
    dress
    ring
+   tailor
    honeymoon/index
    plan/grantt
 
