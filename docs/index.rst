@@ -27,9 +27,11 @@ Welcome to wedding-plan's documentation!
    dress
    ring
    tailor
-   honeymoon/index
+   standing
    house/index
+   honeymoon/index
    plan/index
+
 
 .. toctree::
    :maxdepth: 1
