@@ -28,7 +28,8 @@ Welcome to wedding-plan's documentation!
    ring
    tailor
    honeymoon/index
-   plan/grantt
+   house/index
+   plan/index
 
 .. toctree::
    :maxdepth: 1

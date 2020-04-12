@@ -1,11 +1,16 @@
-준비과정기록
+4월
 ===================
 
-.. https://github.com/mgaitan/sphinxcontrib-mermaid
-.. https://github.com/utterance/utterances
+.. mermaid::
 
+   gantt
+   title 결혼 준비
+   dateFormat  YYYY-MM-DD
 
-.. mermaid:: ../_static/journal.mmd
+   section 외부요인
+      4월 시작: 2020-04-01, 1d
+      4월 끝: 2020-04-30, 1d
+
 
 
 .. raw:: html
