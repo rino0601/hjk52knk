@@ -1,19 +1,16 @@
-준비과정기록
+5월
 ===================
 
-.. https://github.com/mgaitan/sphinxcontrib-mermaid
-.. https://github.com/utterance/utterances
+.. mermaid::
 
+   gantt
+   title 결혼 준비
+   dateFormat  YYYY-MM-DD
 
-.. toctree::
+   section 외부요인
+      5월 시작: 2020-05-01, 1d
+      5월 끝: 2020-05-31, 1d
 
-   january
-   february
-   march
-   april
-   may
-
-.. mermaid:: ../_static/journal.mmd
 
 
 .. raw:: html

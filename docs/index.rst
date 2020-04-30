@@ -28,6 +28,7 @@ Welcome to wedding-plan's documentation!
    ring
    tailor
    standing
+   snapshot
    house/index
    honeymoon/index
    plan/index
