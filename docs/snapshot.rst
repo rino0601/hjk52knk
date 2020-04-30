@@ -38,3 +38,13 @@
 
 표정 연습 좀 할껄... 해야 한다고 직원이 미리 알려 줬는데 그게 그렇게 되지가 않았음.
 
+
+.. raw:: html
+
+   <script src="https://utteranc.es/client.js"
+        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+   </script>
