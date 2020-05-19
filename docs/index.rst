@@ -5,12 +5,10 @@
 
 .. https://xbeach.readthedocs.io/en/latest/cheatsheet.html
 
-Welcome to wedding-plan's documentation!
+고한종 & 김나경 결혼합니다
 ========================================
 
-.. image:: https://readthedocs.org/projects/journal-preparing-wedding-of-rino-and-rethien/badge/?version=latest
-   :target: https://journal-preparing-wedding-of-rino-and-rethien.readthedocs.io/ko/latest/?badge=latest
-   :alt: Documentation Status
+
 
 이 문서는 한 커플의 결혼 준비 과정을 기록해둔 것입니다. (현재 진행 중)
 
@@ -18,10 +16,14 @@ Welcome to wedding-plan's documentation!
 
 누군가에게는 가치 있는 기록이 되길 바랍니다.
 
+.. raw:: html
+
+   <div class="powr-image-gallery" id="a2f895e3_1589904174"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Contents
+   :hidden:
 
    decision
    dress
@@ -37,20 +39,18 @@ Welcome to wedding-plan's documentation!
 .. toctree::
    :maxdepth: 1
    :caption: References
+   :hidden:
 
    Sphinx <https://www.sphinx-doc.org/>
    Read the Docs <https://readthedocs.org/>
    LiveRe <https://www.livere.com/>
+   POWr <https://www.powr.io/>
+
+.. image:: https://readthedocs.org/projects/journal-preparing-wedding-of-rino-and-rethien/badge/?version=latest
+   :target: https://journal-preparing-wedding-of-rino-and-rethien.readthedocs.io/ko/latest/?badge=latest
+   :alt: Documentation Status
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
-
-
+신랑 신부에게 축하메세지를 남겨주세요
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 

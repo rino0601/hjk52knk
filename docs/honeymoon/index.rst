@@ -16,5 +16,6 @@
 
 
 .. toctree::
+   :glob:
 
-   prepare
+   *

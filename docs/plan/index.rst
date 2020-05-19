@@ -6,12 +6,9 @@
 
 
 .. toctree::
+   :glob:
 
-   january
-   february
-   march
-   april
-   may
+   *
 
 .. mermaid:: ../_static/journal.mmd
 
