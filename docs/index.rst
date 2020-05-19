@@ -40,7 +40,7 @@ Welcome to wedding-plan's documentation!
 
    Sphinx <https://www.sphinx-doc.org/>
    Read the Docs <https://readthedocs.org/>
-   utterances <https://utteranc.es>
+   LiveRe <https://www.livere.com/>
 
 
 Indices and tables
@@ -51,14 +51,6 @@ Indices and tables
 * :ref:`search`
 
 
-.. raw:: html
 
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-number="3"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>
 
 

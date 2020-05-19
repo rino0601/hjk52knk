@@ -23,12 +23,3 @@
 1월 27일 순번이 넘어왔는데.. 그걸 잡아버렸다. 아마도 앞의 3명은 현명한 선택을 했을듯.
 각자의 개인사일테니 그게 최선인지 아닌지는 제 3자가 멋대로 평가 할 수 는 없지만 적어도 그들은 맘고생은 안 했을테니..
 
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

@@ -46,14 +46,3 @@
 
 테일러샵에 회수팀을 요청(?)한 것, 테일러샵에서 먼저 해줄 수도 있다고 한거지만 아무튼 활용해서 수고를 덜음.
 예물 가게에 티아라등을 돌려주는 일을 곧바로 한 것. 퇴근 러시아워에 끼여서 피곤했지만, 다음날 해야 했다면 더 피곤 했을 것.
-
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

@@ -95,12 +95,3 @@
    이런 영업 방식을 옹호할 마음은 전혀 없지만, 불필요한 갈등은 피하고 싶어서 가격과 업체명은 공개하지 않을 계획 입니다.
 
 
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

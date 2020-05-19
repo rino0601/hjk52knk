@@ -73,16 +73,3 @@
 확정일자를 따로 받기위해 시간을 내는건 불편하다 생각되어 곧바로 지역 주민센터를 방문해서 확정일자를 받았다.
 
 가장 큰 문제가 해결 되었다 생각되어 기분은 좋다. 다만 아직 전세 대출이 남아있다.
-
-
-
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

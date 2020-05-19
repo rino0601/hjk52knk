@@ -28,12 +28,3 @@
 
 아무리 생각해도 시간 타령한 그 반지 업체는 진짜진짜.... 할말하않
 
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

@@ -48,13 +48,3 @@
 신혼여행을 위한 항공권 발권이 되고서 몇일 되지 않아 이탈리아의 사정이 좋지 않음이 세상에 밝혀지고...
 차라리 일주일 미뤘으면 환불 걱정은 안해도 되었을텐데...
 이 때문에 당분간 돈이 묶이게 됩니다.
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

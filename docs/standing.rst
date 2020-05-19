@@ -41,13 +41,3 @@
 
 해당 식당은 상견례를 하러 많이들 찾는 식당이라 눈치껏 잘 서빙해주고 사진도 잘 찍어주었답니다.
 
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

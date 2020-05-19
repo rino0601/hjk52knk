@@ -118,14 +118,3 @@ COVID-19 31번 환자 등장
 
 여행 일정은 6월 중순 이후로 계획하기로 했습니다
 사실 국내 여행은 다 말이 통하고 어떻게든 되므로(...) 해외 여행보다는 여유로운 것이 제일 큰 장점이네요 ㅋㅋ
-
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

@@ -109,15 +109,3 @@
 
 턱시도 무겁더라...  반납은 토탈샵에 두고가도 된다고 들었음.
 
-
-
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

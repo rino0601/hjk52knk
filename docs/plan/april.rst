@@ -40,14 +40,3 @@
 
 
 2월 못지 않게 바쁘게 준비한 4월. 비용도 가장 많이 사용 했다.
-
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>

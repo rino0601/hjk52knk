@@ -175,15 +175,6 @@
 
 반납
 -----------------
-2020-04-29 또는 30 예정
+2020-04-29 촬영일에 바로 반납했다. 수원의 퇴근시간 교통 체증은 대단하다.
+하지만 감내할만 했던게, 그 다음날 따로 시간들이기도 힘들었을 거라서...
 
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>
