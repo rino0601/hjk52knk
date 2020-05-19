@@ -36,21 +36,8 @@
 신랑 아버님의 요구로..  신랑이 학부연구생으로 1년 몸 담았던 연구실의 교수님꼐 주례를 요청
 (4월 17일) 승낙 받았음.
 
-
-
 축가 부탁 할거야?
 --------------------
 
 신부 친구가 축가 제안을 했고, 신부는 받아들였습니다.
 4월 14일 기준으로는 아직 곡 선정을 하지 않았습니다.
-
-
-.. raw:: html
-
-   <script src="https://utteranc.es/client.js"
-        repo="rino0601/journal-preparing-wedding-of-rino-and-rethien"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-   </script>
