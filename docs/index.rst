@@ -16,9 +16,13 @@
 
 누군가에게는 가치 있는 기록이 되길 바랍니다.
 
+gallery
+^^^^^^^^
 .. raw:: html
 
    <div class="powr-image-gallery" id="a2f895e3_1589904174"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+
+
 
 .. toctree::
    :maxdepth: 4
@@ -46,9 +50,6 @@
    LiveRe <https://www.livere.com/>
    POWr <https://www.powr.io/>
 
-.. image:: https://readthedocs.org/projects/journal-preparing-wedding-of-rino-and-rethien/badge/?version=latest
-   :target: https://journal-preparing-wedding-of-rino-and-rethien.readthedocs.io/ko/latest/?badge=latest
-   :alt: Documentation Status
 
 
 신랑 신부에게 축하메세지를 남겨주세요
