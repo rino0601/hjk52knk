@@ -1,4 +1,4 @@
 
-[![Documentation Status](https://readthedocs.org/projects/journal-preparing-wedding-of-rino-and-rethien/badge/?version=latest)](https://journal-preparing-wedding-of-rino-and-rethien.readthedocs.io/ko/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/hjk52knk/badge/?version=latest)](https://hjk52knk.readthedocs.io/ko/latest/?badge=latest)
 
-https://journal-preparing-wedding-of-rino-and-rethien.readthedocs.io/
+https://hjk52knk.readthedocs.io/
