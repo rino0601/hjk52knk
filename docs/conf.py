@@ -17,7 +17,7 @@ import sphinx_rtd_theme
 
 # -- Project information -----------------------------------------------------
 
-project = 'wedding-plan'
+project = 'invitation'
 copyright = '2020, hanjong-ko'
 author = 'hanjong-ko'
 master_doc = 'index'

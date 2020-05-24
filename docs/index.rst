@@ -5,24 +5,31 @@
 
 .. https://xbeach.readthedocs.io/en/latest/cheatsheet.html
 
-고한종 & 김나경 결혼합니다
-========================================
-
-
-
-이 문서는 한 커플의 결혼 준비 과정을 기록해둔 것입니다. (현재 진행 중)
-
-준비 기간은 6개월(173일), 연애는 7년째(2020년 기준), 예산은 솔직히 안 정했다...
-
-누군가에게는 가치 있는 기록이 되길 바랍니다.
-
-gallery
-^^^^^^^^
 .. raw:: html
+   :file: _static/html/landing_page.html
+.. raw:: html
+   :file: _static/html/style.html
 
-   <div class="powr-image-gallery" id="a2f895e3_1589904174"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+.. .. topic:: 오늘 결혼합니다!
+
+..    저희 결혼식에 참석해주셔서 감사합니다.
+..    안내말씀 드리오니 ㅁㅁㅁ 하시길 바랍니다.
+
+..    * 체온 제한있습니다. 마스크 사용 필수
+..    * 주차장 이용시 피로연 입장시 1일 주차권을 수령하셔야 합니다.
+
+.. raw:: html
+   :file: _static/html/start.html
+.. raw:: html
+   :file: _static/html/greeting.html
+.. raw:: html
+   :file: _static/html/gallery.html
+.. raw:: html
+   :file: _static/html/location.html
 
 
+2020.7.18 고한종♥김나경 결혼합니다
+=================================================
 
 .. toctree::
    :maxdepth: 4
@@ -51,7 +58,9 @@ gallery
    POWr <https://www.powr.io/>
 
 
+.. raw:: html
 
-신랑 신부에게 축하메세지를 남겨주세요
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   <div class="wrap w_skin_photo1"><div class="mobile_wrap"><div id="guest_book" class="pages">
+        <h2><img src="_static/files/title_img_5.png" style="width:300px;"></h2>
+   </div></div></div>
 
