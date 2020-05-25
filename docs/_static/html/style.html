@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<link rel="stylesheet" href="/resources/demos/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <style type="text/css">
   @import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
 
@@ -476,7 +480,7 @@
     display: block;
     color: #fff;
     width: 100%;
-    height: 28px;
+    /* height: 28px; */
     background-color: #999;
     font-family: 'Malgun Gothic', '나눔고딕', 'NanumGothic', 'NanumGothicWEB', '나눔명조', 'Nanum Myeongjo', '맑은 고딕', '돋움', Dotum, '굴림', Gulim, sans-serif;
   }
@@ -484,6 +488,11 @@
   #location .navi li {
     display: inline-block;
     padding: 0px 5px;
+  }
+
+  #location .navi button,
+  #location .navi a {
+    background: none;
   }
 
   #location .navi li .txt {
@@ -556,7 +565,7 @@
 
   .w_skin_photo1 #location .navi li {
     margin: auto 0;
-    padding: 2%;
+    padding: 1%;
   }
 
   .w_skin_photo1 #location .address {
@@ -903,5 +912,9 @@
   .w_skin_photo1 .mobile_wrap dl dt {
     border-top: none;
     background: none;
+  }
+
+  #location .map_wrap iframe {
+    height: 366px !important;
   }
 </style>

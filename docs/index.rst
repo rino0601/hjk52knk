@@ -56,6 +56,7 @@
    Read the Docs <https://readthedocs.org/>
    LiveRe <https://www.livere.com/>
    POWr <https://www.powr.io/>
+   jQuery UI <https://jqueryui.com/>
 
 
 .. raw:: html

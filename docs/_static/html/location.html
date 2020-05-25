@@ -6,16 +6,37 @@
       <h2 style="text-align:left; padding:46px 0 15px 18px;">
         <img src="_static/files/title_img_4.png" alt="location" width="200">
       </h2>
-
-      <img src="_static/files/10226360.jpg" alt="map">
-      <!-- <div class="map_wrap">
-        <iframe id="incGoogleMap" src="_static/files/KakaoMap.html" width="750" height="320" frameborder="0"
-          style="border: 0" allowfullscreen="">
+      <div class="map_wrap">
+        <iframe id="incGoogleMap" src="_static/files/map.html" frameborder="0" style="border: 0" allowfullscreen="">
         </iframe>
         <ul class="navi">
-          <li><a href="http://mcard.barunnfamily.com/B2940885?08a4#"><span class="txt">카카오맵 바로가기</span></a></li>
+
+          <li id="btn_calandar">
+            <a class="ui-button ui-widget ui-corner-all" href="_static/files/calendar.ics" download="다운로드후_열기로_일정등록">
+              <span class="txt">일정 등록</span>
+            </a>
+          </li>
+
+          <li id="btn_kakao_map">
+            <a class="ui-button ui-widget ui-corner-all" href="https://map.kakao.com/link/to/932183710">
+              <span class="txt">카카오 지도</span>
+            </a>
+          </li>
+          <li id="btn_naver_map">
+            <a class="ui-button ui-widget ui-corner-all" href="http://naver.me/5QxMe3as">
+              <span class="txt">네이버 지도</span>
+            </a>
+          </li>
+          <li id="btn_image_map">
+            <button class="ui-button ui-widget ui-corner-all"><span class="txt">약도보기</span></button>
+          </li>
         </ul>
-      </div> -->
+      </div>
+      <div class="toggler">
+        <div id="effect" class="ui-widget-content ui-corner-all" style="display: none;">
+          <img src="_static/files/10226360.jpg" alt="map">
+        </div>
+      </div>
 
       <dl class="address">
         <dt><span class="input_hall">NAVER 그린팩토리 2층 커넥트홀</span> <span class="input_floor"> </span></dt>
@@ -46,4 +67,11 @@
     <!-- / 오시는길 -->
   </div>
   <!-- / 스킨 -->
+  <script>
+    $(function () {
+      $("#btn_image_map").on("click", function () {
+        $("#effect").toggle("blind", {}, 500);
+      });
+    });
+  </script>
 </div>
