@@ -55,12 +55,13 @@
    Sphinx <https://www.sphinx-doc.org/>
    Read the Docs <https://readthedocs.org/>
    LiveRe <https://www.livere.com/>
-   POWr <https://www.powr.io/>
    jQuery UI <https://jqueryui.com/>
+   slick <https://github.com/kenwheeler/slick>
+
+.. POWr <https://www.powr.io/>
 
 
 .. raw:: html
-
    <div class="wrap w_skin_photo1"><div class="mobile_wrap"><div id="guest_book" class="pages">
         <h2><img src="_static/files/title_img_5.png" style="width:300px;"></h2>
    </div></div></div>

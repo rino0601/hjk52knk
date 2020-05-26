@@ -4,10 +4,51 @@
     <!-- 갤러리 -->
     <div id="gallery" class="pages">
       <h2><img src="_static/files/title_img_2.png"></h2>
-      <div class="powr-image-gallery" id="a2f895e3_1589904174"></div>
+      <!-- <div class="powr-image-gallery" id="a2f895e3_1589904174"></div> -->
+      <div class="gabong">
+        <div><img data-lazy="_static/photos/A74I4878.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4925.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4907.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4936.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I5072.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4445.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4961.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4387.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4550.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4404.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4415.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4437.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4465.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4657.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4617.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4753.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4872.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4815.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I4863.jpg" /></div>
+        <div><img data-lazy="_static/photos/A74I5096.jpg" /></div>
+      </div>
     </div>
     <!-- /갤러리 -->
   </div>
   <!-- 스킨 -->
-  <script src="https://www.powr.io/powr.js?platform=html"></script>
+  <!-- <script src="https://www.powr.io/powr.js?platform=html"></script> -->
+  <script type="text/javascript">
+    $(function () {
+      $('.gabong').slick({
+        lazyLoad: 'ondemand',
+        dots: true,
+        infinite: true,
+        speed: 700,
+        autoplay: true,
+        autoplaySpeed: 7000,
+        accessibility: false,
+      });
+    });
+  </script>
+  <style>
+    div.gabong {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+  </style>
 </div>
