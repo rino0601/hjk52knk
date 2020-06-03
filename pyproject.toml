@@ -6,11 +6,11 @@ authors = ["rino0601 <rino0601.dev@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.6"
-sphinx = "^3.0.4"
-sphinxcontrib-mermaid = "^0.4.0"
-recommonmark = "^0.6.0"
-sphinx-sitemap = "^2.1.0"
-sphinx-rtd-theme = "^0.4.3"
+sphinx = {version = "^3.0.4",  optional = true}
+sphinx-rtd-theme = {version = "^0.4.3",  optional = true}
+sphinx-sitemap = {version = "^2.1.0",  optional = true}
+recommonmark = {version = "^0.6.0",  optional = true}
+sphinxcontrib-mermaid = {version = "^0.4.0",  optional = true}
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.4.3"
@@ -18,6 +18,11 @@ autopep8 = "^1.5.3"
 pylint = "^2.5.2"
 doc8 = "^0.8.1"
 taskipy = "^1.2.1"
+pip = "^20.1.1"
+
+[tool.poetry.extras]
+docs = ["recommonmark", "sphinx", "sphinx-rtd-theme","sphinx-sitemap","sphinxcontrib-mermaid"]
+
 
 [tool.taskipy.tasks]
 test = "pytest"
