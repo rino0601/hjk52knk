@@ -36,6 +36,7 @@
    :caption: Contents
    :hidden:
 
+   intro
    decision
    dress
    ring
@@ -43,6 +44,7 @@
    standing
    snapshot
    house/index
+   invitation
    honeymoon/index
    plan/index
 
