@@ -23,10 +23,12 @@ pip = "^20.1.1"
 [tool.poetry.extras]
 docs = ["recommonmark", "sphinx", "sphinx-rtd-theme","sphinx-sitemap","sphinxcontrib-mermaid"]
 
-
 [tool.taskipy.tasks]
 test = "pytest"
 lint = "pylint tests taskipy"
+pre_docs = "rm -rf docs/_build"
+docs = "sphinx-build -M html docs/ docs/_build"
+post_docs = "cd docs/_build/html && python -m http.server 8000"
 
 [build-system]
 requires = ["poetry>=0.12"]
