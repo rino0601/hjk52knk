@@ -64,7 +64,12 @@
 
 
 .. raw:: html
-   <div class="wrap w_skin_photo1"><div class="mobile_wrap"><div id="guest_book" class="pages">
-        <h2><img src="_static/files/title_img_5.png" style="width:300px;"></h2>
-   </div></div></div>
+
+   <div class="wrap w_skin_photo1">
+      <div class="mobile_wrap">
+         <div id="guest_book" class="pages">
+            <h2><img src="_static/files/title_img_5.png" style="width:300px;"></h2>
+         </div>
+      </div>
+   </div>
 

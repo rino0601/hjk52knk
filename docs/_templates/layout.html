@@ -1,8 +1,19 @@
 {% extends "!layout.html" %}
+<!-- https://github.com/sphinx-doc/sphinx/issues/6089#issuecomment-466234862 -->
+<!-- https://developers.facebook.com/tools/debug/ -->
+<!-- https://www.sphinx-doc.org/en/master/templating.html#global-variables -->
+{% block extrahead %}
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ title }}" />
+<meta property="og:description" content="성남시 분당구 불정로 그린팩토리 2층 커넥트홀 오후1시" />
+<meta property="og:image" content="https://hjk52knk.readthedocs.io/en/latest/_static/files/mainimage.jpg" />
+<meta property="og:image:width" content="560" />
+<meta property="og:image:height" content="840" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:url" content="https://hjk52knk.readthedocs.io" />
+{% endblock %}
 {% block document %}
-
 {{ super() }}
-
 <hr>
 <!-- 라이브리 시티 설치 코드 -->
 <div id="lv-container" data-id="city" data-uid="MTAyMC81MDE4MC8yNjY3MA==">
