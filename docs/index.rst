@@ -12,8 +12,6 @@
 .. raw:: html
    :file: _static/html/start.html
 .. raw:: html
-   :file: _static/html/greeting.html
-.. raw:: html
    :file: _static/html/gallery.html
 .. raw:: html
    :file: _static/html/location.html
