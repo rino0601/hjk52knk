@@ -11,22 +11,9 @@
    :file: _static/html/style.html
 .. raw:: html
    :file: _static/html/start.html
-.. raw:: html
-   :file: _static/html/gallery.html
-.. raw:: html
-   :file: _static/html/location.html
 
 2020.7.18 고한종♥김나경 결혼합니다
 =================================================
-.. note::
-
-   저희 결혼식에 참석해주셔서 감사합니다.
-   안내 말씀 드리오니 꼭 참고 하시길 바랍니다.
-
-   * 코로나 확산을 방지하기 위해 하객분들의 체온을 측정합니다.
-   * 고열이 나거나 마스크를 착용하지 않으신 경우 입장이 제한 됩니다.
-   * 피로연장에서 일회용 비닐장갑을 제공합니다. 모두를 위해 꼭 사용해주시길 바랍니다.
-   * 주차장 이용시 지하1층 피로연장 입구에서 1일 무료 주차권을 수령하실 수 있습니다.
 
 .. toctree::
    :maxdepth: 4
