@@ -42,6 +42,7 @@
    snapshot
    house/index
    invitation
+   dday
    honeymoon/index
    plan/index
 
