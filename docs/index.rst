@@ -6,8 +6,6 @@
 .. https://xbeach.readthedocs.io/en/latest/cheatsheet.html
 
 .. raw:: html
-   :file: _static/html/landing_page.html
-.. raw:: html
    :file: _static/html/style.html
 .. raw:: html
    :file: _static/html/start.html
@@ -41,12 +39,8 @@
 
    Sphinx <https://www.sphinx-doc.org/>
    Read the Docs <https://readthedocs.org/>
-   LiveRe <https://www.livere.com/>
    jQuery UI <https://jqueryui.com/>
    slick <https://github.com/kenwheeler/slick>
-
-.. POWr <https://www.powr.io/>
-
 
 .. raw:: html
 
